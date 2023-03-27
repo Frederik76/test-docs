@@ -1,0 +1,8 @@
+site_name: "docs_test"
+site_description: "sdfg"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

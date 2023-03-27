@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "docs_test"
+  description: "sdfg"
+  annotations:
+    github.com/project-slug: Frederik76/test-docs
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "group:default/team-a"
